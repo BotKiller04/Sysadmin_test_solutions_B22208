@@ -10,7 +10,7 @@ created docker compose .yaml file which is attached along with it to create two 
 
 ran "sudo docker-compose up -d" to run containers on a single network in background
 
-LEARNING OUTCOMES:
+**LEARNING OUTCOMES:**
 -learnt about docker containers 
 -got to know about docker compose and how to write scripts for creating docker containers 
 -mapping of postgresql data to a directory in localhost from container

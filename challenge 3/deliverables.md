@@ -12,6 +12,7 @@ ran "sudo docker-compose up -d" to run containers on a single network in backgro
 
 # LEARNING OUTCOMES:
 -learnt about docker containers <br>
+-creating a docker image <br>
 -got to know about docker compose and how to write scripts for creating docker containers<br> 
 -setting up a database container with already available images <br>
 -mapping of postgresql data to a directory in localhost from container<br>

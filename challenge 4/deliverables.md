@@ -7,6 +7,8 @@ deploying using command "docker-compose up -d"
 
 by default it uses round robin load balancing that distributes service requests uniformally on all three instances
 
+while running got an error and was not able to resolve it so no demonstration available
+
 # LEARNING OUTCOMES:
 - Docker hub<br>
 - Scaling and load balancing using docker-compose with nginx<br>
